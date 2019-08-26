@@ -9,6 +9,9 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
+# FORKED FOR USE AS TEMPLATE
+forked from [maximegris](https://github.com/maximegris/angular-electron) to take advantage of the new template repos feature - no further customizations planned at this time
+
 # Introduction
 
 Bootstrap and package your project with Angular 8 and Electron (Typescript + SASS + Hot Reload) for creating Desktop applications.
